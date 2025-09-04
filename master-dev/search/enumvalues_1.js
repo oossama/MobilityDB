@@ -22,6 +22,5 @@ var searchData=
   ['atype_5fint_19',['ATYPE_INT',['../snprintf_8c_aed36ce3476857b1306cc37667e20daf7.html#aed36ce3476857b1306cc37667e20daf7a924a8514e6b87179222f73e6d0c264cb',1,'snprintf.c']]],
   ['atype_5flong_20',['ATYPE_LONG',['../snprintf_8c_aed36ce3476857b1306cc37667e20daf7.html#aed36ce3476857b1306cc37667e20daf7abe175a8777bd771042fb8ae715a90dd5',1,'snprintf.c']]],
   ['atype_5flonglong_21',['ATYPE_LONGLONG',['../snprintf_8c_aed36ce3476857b1306cc37667e20daf7.html#aed36ce3476857b1306cc37667e20daf7a655b088783120d5955ac83ebf4f1bea7',1,'snprintf.c']]],
-  ['atype_5fnone_22',['ATYPE_NONE',['../snprintf_8c_aed36ce3476857b1306cc37667e20daf7.html#aed36ce3476857b1306cc37667e20daf7ae7739ddd5664be1d719125d17d406b06',1,'snprintf.c']]],
-  ['averagehausdorff_23',['AVERAGEHAUSDORFF',['../temporal__analytics_8h_a95466ee804101bbc942485fdc27bc615.html#a95466ee804101bbc942485fdc27bc615addcae390717c884a9caa2d9634869af0',1,'temporal_analytics.h']]]
+  ['atype_5fnone_22',['ATYPE_NONE',['../snprintf_8c_aed36ce3476857b1306cc37667e20daf7.html#aed36ce3476857b1306cc37667e20daf7ae7739ddd5664be1d719125d17d406b06',1,'snprintf.c']]]
 ];
